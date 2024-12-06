@@ -1,6 +1,6 @@
 # Data Analysis and Forecasting of Natural Disasters
 
-This project performs Exploratory Data Analysis (EDA) as well as train and implement 4 machine learning models that could predict future natural disasters based on a synthetic data.
+This project performs Exploratory Data Analysis (EDA) as well as train and implement 4 machine learning models that could predict future natural disasters based on a synthetic data. It is the work of Maddy Lok, Genki Hirayama, Brian Duckworth and Hamdi Kucukengin.
 
 ## Table of Contents
 - [Introduction](#introduction)
