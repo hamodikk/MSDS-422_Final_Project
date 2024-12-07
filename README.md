@@ -11,6 +11,7 @@ This project performs Exploratory Data Analysis (EDA) as well as train and imple
 - [Model Implementation](#model-implementation)
 - [Results,Observations and Conclusions](#results-observations-and-conclusions)
 - [Summary and Suggestions](#summary-and-suggestions)
+- [Reference](#reference)
 
 ## Introduction
 
@@ -310,3 +311,7 @@ This projects has examined a dataset consisted of information on synthetically g
 All four models evaluations returned poor performance results, suggesting potential issues with the data quality. The potential causes are insufficient features that also don't correlate to the target variable, likely due to the random nature of the dataset.
 
 If the client still prefers synthetic data, it is important to generate a dataset that initially captures the complex relationships between the features and the target variable before training predictive models. Our suggestion to the client/management would be to spend more resources on higher quality data collection from real-life events rather than generating synthetic datasets. Especially in cases such as international disaster related data, there are already resources available such as [The Geocoded Disasters Dataset (GDIS)](https://cmr.earthdata.nasa.gov/search/concepts/C2022273992-SEDAC.html), which has extensive data on variety of disasters, similar to the dataset this project has analyzed.
+
+## Reference
+
+- Forecasting Disaster Management in 2024 (Adnaan Faiz): [https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024/data](https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024/data).
