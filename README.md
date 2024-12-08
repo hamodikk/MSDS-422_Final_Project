@@ -4,6 +4,7 @@ This project performs Exploratory Data Analysis (EDA) as well as train and imple
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Project Contents](#project-contents)
 - [Features](#features)
 - [Data Description](#data-description)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -15,7 +16,15 @@ This project performs Exploratory Data Analysis (EDA) as well as train and imple
 
 ## Introduction
 
-Our projects aim is to showcase what we have learned over the duration of our course. This includes performing EDA on the selected data, data preparation and feature engineering, training and implementing machine learning models, and presenting our findings in the form of visuals and recommendations. A more detailed explanation could be found in our [project description file](Final_Project_Description.docx). For this project, we used the dataset from ["Forecasting Disaster Management in 2024"](https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024/data).
+Our projects aim is to showcase what we have learned over the duration of our course. This includes performing EDA on the selected data, data preparation and feature engineering, training and implementing machine learning models, and presenting our findings in the form of visuals and recommendations. A more detailed explanation could be found in our [project description file](Final_Project_Description.docx). For this project, we used the dataset from ["Forecasting Disaster Management in 2024"](https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024/data). We present our findings in the form of this README.md document, as [a powerpoint presentation](MSDS_422_Group_2_Final.pptx) and as [a shiny dashboard](https://nwgh.shinyapps.io/Shiny_App/).
+
+## Project Contents
+
+- [Final Project Description](Final_Project_Description.docx)
+- [Natural Disasters Dataset](natural_disasters_2024.csv)
+- [Powerpoint Presentation of the Project](MSDS_422_Group_2_Final.pptx)
+- [Jupyter Notebook Including EDA, Feature Engineering and Model Implementations](Final_EDA_ML.ipynb)
+- [Dashboard to Present our Findings](https://nwgh.shinyapps.io/Shiny_App/)
 
 ## Features
 
